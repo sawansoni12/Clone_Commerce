@@ -59,7 +59,7 @@
 
 *This project was inspired by Amazon's user interface and built as a practice project to improve front-end development skills.
 
-**Feel free to fork this repo, explore, and improve upon it! Contributions are welcome.**
+***Feel free to fork this repo, explore, and improve upon it! Contributions are welcome.***
 
 
 
