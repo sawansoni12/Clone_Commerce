@@ -4,23 +4,23 @@
 
 **🚀 Key Features:**
 
-Responsive Layout: Adapts to different screen sizes (partially responsive using CSS media queries).
+*Responsive Layout: Adapts to different screen sizes (partially responsive using CSS media queries).
 
-Navigation Bar: Fully styled top navigation bar with dropdown icons and hover effects.
+*Navigation Bar: Fully styled top navigation bar with dropdown icons and hover effects.
 
-Hero Section: Mimics the Amazon homepage hero banner with a central promotional image.
+*Hero Section: Mimics the Amazon homepage hero banner with a central promotional image.
 
-Product Cards: Interactive product boxes that highlight on hover.
+*Product Cards: Interactive product boxes that highlight on hover.
 
-Hover Effects: Smooth transitions on buttons, links, and product images to enhance user experience.
+*Hover Effects: Smooth transitions on buttons, links, and product images to enhance user experience.
 
-Footer Section: Styled similar to Amazon with useful links and sign-in prompts.
+*Footer Section: Styled similar to Amazon with useful links and sign-in prompts.
 
 **🔧Technologies Used:**
 
-HTML5-For page structure and content layout.
+*HTML5-For page structure and content layout.
 
-CSS3-For styling, layout designs, and hover effects.
+*CSS3-For styling, layout designs, and hover effects.
 
 **📦 How to Use:**
 
@@ -57,7 +57,7 @@ CSS3-For styling, layout designs, and hover effects.
 
 **🙌 Acknowledgements:**
 
-This project was inspired by Amazon's user interface and built as a practice project to improve front-end development skills.
+*This project was inspired by Amazon's user interface and built as a practice project to improve front-end development skills.
 
 **Feel free to fork this repo, explore, and improve upon it! Contributions are welcome.**
 
