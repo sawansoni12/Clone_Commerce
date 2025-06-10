@@ -1,4 +1,4 @@
-# Clone_Commerce
+# Amazon_Website_Clone
 
 **🛒 Amazon Clone: A responsive e-commerce frontend built with HTML, CSS, featuring modern styling and interactive UI elements.**
 
